@@ -63,7 +63,7 @@ header {
 header h1 {
 
     margin: 0;
-    padding: 38px 20px 20px 20px;
+    padding: 2.375em 1.25em 1.25em 1.25em;
     border-bottom: 3px solid #77a466;
     width: 100%;
 }
@@ -109,7 +109,7 @@ header nav ul li a {
 
 .main-image img {
     width: 100%;
-    border-bottom: 3px solid #77a466;
+    border-bottom: 0.1875em solid #77a466;
 }
 
 .menu {
@@ -118,14 +118,14 @@ header nav ul li a {
 
 .main-title h2 {
     text-align: left;
-    padding: 5px 0;
+    padding: 0.3125em 0;
     color: #77a466;
 }
 
 .main-title p {
     padding: 0;
     font-size: 1em;
-    line-height: 1.5625;
+    line-height: 1.5625em;
 
 }
 
@@ -133,7 +133,7 @@ header nav ul li a {
 .section-two,
 .section-three {
     width: 100%;
-    border-top: 1px solid #eee;
+    border-top: 0.0625em solid #eee;
 }
 
 .menu {
@@ -142,27 +142,30 @@ header nav ul li a {
 }
 
 .menu li {
-    padding: 10px 0;
+    padding: 0.625em 0;
     color: #77a466;
 }
 
 .reviews {
     color: #333;
     font-size: 1em;
-    line-height: 1.3125;
+
+    line-height: 1.3125em;
     text-align: left;
     padding: 0px;
 
 }
 
 .address {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 1em;
+    line-height: 1.5em;
+    padding: 0px;
+
 }
 
 /*The widths are in a percentage!*/
 footer {
-    border-top: 3px solid #eee;
+    border-top: 0.1875em solid #eee;
     margin: 0 auto;
     width: 100%;
     text-align: center;
@@ -196,9 +199,9 @@ footer span {
     }
 
     .section-two {
-        border-left: 1px solid #eee;
-        border-right: 1px solid #eee;
-        padding: 0 20px;
+        border-left: 0.0625em solid #eee;
+        border-right: 0.0625em solid #eee;
+        padding: 0 1.25em;
     }
 }
 
