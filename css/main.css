@@ -31,7 +31,7 @@ h3 {
 }
 
 h1 {
-    font-size: 1.875em;
+    font-size: 1.5em;
 }
 
 h2 {
@@ -218,6 +218,7 @@ footer span {
         padding: 0;
         border-bottom: none;
         text-align: left;
+        font-size: 1.875em;
     }
 
 
